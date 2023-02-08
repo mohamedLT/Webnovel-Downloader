@@ -1,2 +1,5 @@
 # Webnovel-Downloader
-A web scraper I made to download novels and turn them into eBooks so I can read them when offline
+A Python-based tool for downloading chapters of a webnovel and converting them into an E-book, complete with a GUI for easy use.
+
+- using BeautifulSoup to scrap the html page 
+- using PySimpleGui to make a simple interface to make it easier to use 
